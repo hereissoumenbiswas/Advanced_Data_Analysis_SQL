@@ -172,6 +172,12 @@ Built the `gold.report_products` view, a single product-level report.
 - `CASE WHEN` for flags and segmentation
 - `EXTRACT()`, `AGE()` and `DATE_PART()` for date handling
 
+## Author
+
+**Soumen Biswas**
+(Data Science graduate)
+
+- GitHub: (https://github.com/hereissoumenbiswas)
 
 
 

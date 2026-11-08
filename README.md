@@ -164,6 +164,13 @@ Built the `gold.report_products` view, a single product-level report.
 - Rows with no `order_date` are excluded from all time-based analysis and from both reports.
 - 2010 and 2014 are partial years, so year-over-year comparisons involving them can be misleading.
 
+## Tools and Concepts Used
+
+- PostgreSQL and pgAdmin
+- Window functions: `SUM() OVER()`, `AVG() OVER()`, `LAG()`
+- CTEs, subqueries and views
+- `CASE WHEN` for flags and segmentation
+- `EXTRACT()`, `AGE()` and `DATE_PART()` for date handling
 
 
 

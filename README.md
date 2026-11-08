@@ -154,6 +154,10 @@ Built the `gold.report_products` view, a single product-level report.
 - Only about 9% of customers are VIP.
 - Retention should focus on keeping VIP customers and moving New customers to Regular.
 
+### Reports
+
+- The customer and product report views turn the analysis into reusable tables, so one `select` gives all key metrics per customer or per product.
+- They are built to feed dashboards and BI tools directly.
 
 
 

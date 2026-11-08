@@ -159,6 +159,10 @@ Built the `gold.report_products` view, a single product-level report.
 - The customer and product report views turn the analysis into reusable tables, so one `select` gives all key metrics per customer or per product.
 - They are built to feed dashboards and BI tools directly.
 
+## Data Quality Notes
+
+- Rows with no `order_date` are excluded from all time-based analysis and from both reports.
+- 2010 and 2014 are partial years, so year-over-year comparisons involving them can be misleading.
 
 
 

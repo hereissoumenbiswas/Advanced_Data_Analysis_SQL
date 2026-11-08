@@ -178,6 +178,7 @@ Built the `gold.report_products` view, a single product-level report.
 (Data Science graduate)
 
 - GitHub: (https://github.com/hereissoumenbiswas)
+- LinkedIn: (https://www.linkedin.com/in/hereissoumenbiswas/?isSelfProfile=true)
 
 
 

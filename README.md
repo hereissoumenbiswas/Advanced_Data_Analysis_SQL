@@ -20,7 +20,7 @@ Run them in this order: setup, then analysis, then the two reports.
 
 ## About the Data
 
-The data sits in a `gold` schema with three tables:
+The data is stored in the `gold` schema, which contains three tables:
 
 | Table | What it holds | Columns used in this project |
 |---|---|---|
